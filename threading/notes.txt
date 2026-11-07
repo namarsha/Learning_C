@@ -1,0 +1,10 @@
+Goal:
+Learn how threads work in C
+
+
+Notes:
+
+Find stuff about threads with linux man pages:
+
+man -keyword "thread" | less
+

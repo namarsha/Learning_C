@@ -1,0 +1,8 @@
+Goal:
+
+Understand the purpose of a void pointer, and be able to explain it in written form.
+
+
+
+Answer:
+Still not entirlely certain, but here's my best guess at present. A void pointer is a pointer (so an address in memory), and it's void because it doesn't have any particular type. It's used in cases where you need to pass or return a pointer and you cannot be certain of what the type of the pointer is.

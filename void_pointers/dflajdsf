@@ -1,0 +1,3 @@
+I've just initialized an integer with a pointer
+ The value of result is: Hello World
+The result points to a value: (nil) 

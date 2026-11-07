@@ -1,0 +1,19 @@
+movl	$0, %eax
+
+move line? 
+%eax looks like a register
+what does moving a literal 0 into this register do?
+
+
+Answer: clears the upper half of the %rax register by initializing it to zero
+
+
+PLT:
+
+Procedure Linkage Table. This is a hook-in point for where an external linked function can "plug in"
+
+objdump -d -j .plt <binary_name>
+
+
+RIP:
+Instruction Pointer register
